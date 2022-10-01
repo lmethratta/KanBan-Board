@@ -1,0 +1,1 @@
+main.o: main.cpp kanbanBoard.hpp project.hpp task.hpp userProfile.hpp
