@@ -1,6 +1,8 @@
 # KanBan-Board:
 -a project management tool 
 
+-worked with two peers
+
 
 Each kanban board was based on a project object, and each project had corresponding users and tasks. Users could be either project managers or developers, with access to certain functionalities such as deleting projects and tasks, limited by user role. The tasks unlocked based on user roles varied and included things such as building a grid and debugging a program. 
 
